@@ -1,6 +1,7 @@
 # quiz_app
 
-A new Flutter project.
+A quiz app designed in Flutter.
+This project is a follow-along project as part of the Udemy course "Flutter & Dart - The Complete Guide [2025]"
 
 ## Getting Started
 
