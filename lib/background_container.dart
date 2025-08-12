@@ -20,7 +20,7 @@ class BackgroundContainer extends StatelessWidget {
         child: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
-            Image.asset('assets/quiz-logo.png', width: 200),
+            Image.asset('assets/images/quiz-logo.png', width: 200),
             SizedBox(height: 30),
             Text(
               "Learn Flutter the fun way!",
@@ -32,7 +32,7 @@ class BackgroundContainer extends StatelessWidget {
               onPressed: () {},
               child: Text(
                 "Start Quiz",
-                style: TextStyle(color: Colors.white, fontSize: 15),
+                style: TextStyle(color: const Color.fromARGB(255, 7, 2, 2), fontSize: 15),
               ),
             ),
           ],
